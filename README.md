@@ -6,7 +6,7 @@ The dataset used for this analysis can be found on Kaggle. You can access the da
 
 #### [Kaggle Dataset: Uber Data Analysis 2016](https://www.kaggle.com/datasets/zusmani/uberdrives)
 Please download the dataset from the above link and ensure it is placed in the appropriate directory as specified in the code.
-#### Notebook link: The Jupyter Noteboo for the same can found [here](https://www.kaggle.com/code/pooranjoyb/uber-data-analysis)
+#### [Notebook link: The Jupyter Notebook for the same can found here](https://www.kaggle.com/code/pooranjoyb/uber-data-analysis)
 
 ## Tasks Performed
 - **Busiest Month Analysis:** The code includes an analysis of the busiest month in the year 2016 for Uber. This analysis provides insights into the periods when Uber experienced high demand and activity.
